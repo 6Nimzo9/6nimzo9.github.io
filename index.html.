@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Job Seeker</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 50px auto;
+      padding: 0 24px;
+      line-height: 1.7;
+      color: #222;
+    }
+    h1 { color: #1769aa; }
+    a { color: #1769aa; }
+  </style>
+</head>
+<body>
+  <h1>AI Job Seeker</h1>
+
+  <p>
+    AI Job Seeker is a personal automation tool designed to help
+    identify relevant job opportunities and prepare job applications.
+  </p>
+
+  <h2>How it works</h2>
+  <p>
+    The application collects publicly available job listings, evaluates
+    their relevance to the user's preferences, and can prepare application
+    emails with supporting documents.
+  </p>
+  <p>
+    Email applications are sent through the user's Gmail account only
+    when the configured application rules allow them.
+  </p>
+
+  <h2>Data and privacy</h2>
+  <p>
+    The application runs on the user's own computer. Job data,
+    configuration, CV files, and OAuth credentials are stored locally
+    according to the user's local setup.
+  </p>
+
+  <p>
+    <a href="/privacy.html">Read our Privacy Policy</a>
+  </p>
+</body>
+</html>
